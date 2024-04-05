@@ -10,4 +10,4 @@ I tested Android and iOS mobile apps using both real devices and an emulator And
 
 <a href="https://github.com/DariaMartinovskaya/Mobile_testing/blob/main/Apple_Human_Interface_Guidelines.pdf">Basics of Apple Human Interface Guidelines</a>: file where I collected core information (in my opinion) for iOS mobile app interface testing purposes based on Apple Human Interface Guidelines
 
-
+<a href="https://github.com/DariaMartinovskaya/Mobile_testing/blob/main/Google_Play_Core_app_quality.pdf">Basics of Android apps quality</a>: file where I collected core information (in my opinion) for Andoid mobile app testing purposes based on Android Guidelines
