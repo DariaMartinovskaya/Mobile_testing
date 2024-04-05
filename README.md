@@ -16,6 +16,8 @@ I tested Android and iOS mobile apps using both real devices and an emulator And
 
 #### Android
 
+<a href="https://github.com/DariaMartinovskaya/Android_Studio">Here</a> are results of mobile apps testing using the simulator Android Studio
+
 <a href="https://github.com/DariaMartinovskaya/Mobile_testing/blob/main/Google_Play_Core_app_quality.pdf">Basics of Android apps quality</a>: file where I collected core information (in my opinion) for Andoid mobile app testing purposes based on Android Guidelines
 
 <a href="https://github.com/DariaMartinovskaya/Mobile_testing/blob/main/Android_versions_key_features.pdf">Here</a> is a description of Andorid versions key features
