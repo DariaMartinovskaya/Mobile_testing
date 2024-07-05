@@ -6,6 +6,14 @@ I tested Android and iOS mobile apps using both real devices and an emulator And
 
 <a href="https://drive.google.com/file/d/1AYdWaRW5IzIagibxGWJoQG2crXA0F4E8/view?usp=sharing">Mobile app testing pecularities checklist</a>: checks related to cross-platform testing, interrupt testing, connectivity testing, security testing, performance testing, stress-testing, compatibility testing, update testing, UI/UX testing, usability testing, conformance testing (based on iOS/Andorid Guidelines)
 
+#### Android
+
+<a href="https://github.com/DariaMartinovskaya/Android_Studio">Here</a> are results of mobile apps testing using the simulator Android Studio
+
+<a href="https://github.com/DariaMartinovskaya/ADB/tree/main">Here</a> are results of mobile apps testing using the Android Debug Bridge (ADB)
+
+## Here are results of my research related to mobile apps testing:
+
 #### iOS
 
 <a href="https://drive.google.com/file/d/1-19wwUA36xqR_pKa130_tcMxwwi1oWFI/view?usp=sharing">Basics of App Store Review Guidelines</a>: file where I collected core information for iOS mobile app testing purposes based on App Review Guidelines
@@ -15,10 +23,6 @@ I tested Android and iOS mobile apps using both real devices and an emulator And
 <a href="https://drive.google.com/file/d/19rjxFiTiQ43ZeSXQaC-TWJHoxRqDPhLO/view?usp=sharing">Here</a> is a description of iOS versions key features
 
 #### Android
-
-<a href="https://github.com/DariaMartinovskaya/Android_Studio">Here</a> are results of mobile apps testing using the simulator Android Studio
-
-<a href="https://github.com/DariaMartinovskaya/ADB/tree/main">Here</a> are results of mobile apps testing using the Android Debug Bridge (ADB)
 
 <a href="https://drive.google.com/file/d/1c5mJl12hu7APpqdK1neeZFdaxsYl6gbg/view?usp=sharing">Basics of Android apps quality</a>: file where I collected core information for Andoid mobile app testing purposes based on Android Guidelines
 
